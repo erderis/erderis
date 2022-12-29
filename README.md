@@ -6,6 +6,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erderis&label=Profile%20views&color=0e75b6&style=flat" alt="erderis" /> </p>
 
+- 🔭 I’m currently working on **Seller Admin Panel**
+
+- 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on **FLutter Pub Dev**
+
+- 👨‍💻 All of my projects are available at [erderis.web.app](erderis.web.app)
+
+- 💬 Ask me about **Flutter**
+
+- 📫 How to reach me **deris.dev7@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erderis-l-19556a214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erderis-l-19556a214" height="30" width="40" /></a>
