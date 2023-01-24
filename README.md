@@ -1,8 +1,9 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://erderis.wb.app)
+[![MasterHead](https://img.freepik.com/free-photo/computer-screens-running-programming-code-empty-software-developing-agency-office-computers-parsing-data-algorithms-background-neural-network-servers-cloud-computing-data-room_482257-33353.jpg?w=1380&t=st=1674600627~exp=1674601227~hmac=79a459492c6ea3d70f8c743612f48168722623805facb57254a4ac827e62b3ea)](https://erderis.wb.app)
+
 <h1 align="center">Hi 👋, I'm Deris</h1>
 <h3 align="center">A Flutter Developer from Indonesia</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" coding" />
+<img align="right" width="400" src="https://firebasestorage.googleapis.com/v0/b/erderis.appspot.com/o/github%2Fprogrammer.png?alt=media&token=5a4e81b7-adc0-4c89-82e5-9dff306acdfd" coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erderis&label=Profile%20views&color=0e75b6&style=flat" alt="erderis" /> </p>
 
