@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erderis&label=Profile%20views&color=0e75b6&style=flat" alt="erderis" /> </p>
 
-- 🔭 I’m currently working on **Flyro: Seller Admin Panel**
+- 🔭 I’m currently working on **Inveet: Wedding Invitation App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **IOS Development**
 
-- 👯 I’m looking to collaborate on **FLutter Pub Dev**
+- 👯 I’m looking to collaborate on **Flutter Pub Dev**
 
 - 👨‍💻 All of my projects are available at [erderis.web.app](erderis.web.app)
 
