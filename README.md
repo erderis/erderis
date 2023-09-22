@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Pub Dev**
 
-- 👨‍💻 All of my projects are available at [erderis.web.app](erderis.web.app)
+- 👨‍💻 All of my projects are available at [erderis.web.app](https://erderis.web.app)
 
 - 💬 Ask me about **Flutter**
 
