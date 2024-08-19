@@ -10,13 +10,8 @@
 
 - 🌱 I’m currently learning **IOS Development**
 
-- 👯 I’m looking to collaborate on **Flutter Pub Dev**
-
-- 👨‍💻 All of my projects are available at [erderis.web.app](https://erderis.web.app)
-
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **deris.dev7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
